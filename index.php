@@ -67,7 +67,7 @@ if (!empty($_SESSION['activa'])) {
             </div>
             <div class="col" style="background-color: rgb(183,213,178);">
                 
-                <h1 style="color: #2a1611">AUTENTIFICACIÓN</h1>
+                <h1 style="color: #2a1611">DENISSE PEREZ BOTELLO</h1>
 
                 <form style="padding: 15px;" method="POST">
                     <div>
