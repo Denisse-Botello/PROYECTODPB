@@ -85,7 +85,7 @@ if (!empty($_SESSION['activa'])) {
                     </div>
                     <div class="form-check form-switch">
                         <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault">
-                        <label class="form-check-label" for="flexSwitchCheckDefault">Validar</label>
+                        <label class="form-check-label" for="flexSwitchCheckDefault">inicio</label>
 
 
                     </div>
